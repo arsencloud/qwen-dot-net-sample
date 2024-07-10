@@ -43,7 +43,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. Open the project in your preferred C# IDE (e.g., Visual Studio, Visual Studio Code).
 
-2. Configure the Alibaba Cloud credentials and Model Studio settings in the `appsettings.json` file:
+2. Configure and set your DashScope API Key to `program.cs` file:
 
     ```
     string apiKey = "CHANGE YOUR DASHSCOPE API KEY HERE";
